@@ -6,6 +6,7 @@ describe PagesController do
   before(:each) do
     #
     # Define @base_title here.
+    @base_title = "Ruby on Rails Tutorial Sample App"
     #
   end
   
