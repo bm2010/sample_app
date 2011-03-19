@@ -43,4 +43,4 @@ end
 #   gem 'webrat'
 # end
 
-# test_delete
+# test_delete i dont like it
