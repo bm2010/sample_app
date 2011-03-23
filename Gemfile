@@ -48,3 +48,5 @@ end
 # group :development, :test do
 #   gem 'webrat'
 # end
+
+# test_delete i dont like it / but i like it
